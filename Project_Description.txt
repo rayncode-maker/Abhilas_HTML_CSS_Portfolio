@@ -1,0 +1,3 @@
+Project: Personal Portfolio Website (HTML5 and CSS3 only)
+
+I built a responsive personal portfolio website using semantic HTML5 and a separate style.css file. The page has a navigation bar, a hero section, About, Skills, Projects, Contact and Footer sections, and every navigation link jumps to the matching section ID. Skills are shown as chips and my three internship projects are shown as cards with a title, description and technologies. I used CSS variables for the colour palette, Flexbox for the header, hero and skills, and CSS Grid for the About and Project layouts. Hover and focus states are added to links, buttons, skills and cards, and media queries make the layout work on tablet and mobile screens without horizontal scrolling.
